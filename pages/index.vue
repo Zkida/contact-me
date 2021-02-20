@@ -12,7 +12,7 @@
         <p>
           <span class="font-bold">I'm skilled in:</span> building and
           customizing websites, creating custom plugins, website maintenance and
-          support, website optimization, fixing crashed and broken websites.
+          support, website optimization, and fixing crashed and broken websites.
         </p>
         <div class="mt-12">
           <a
