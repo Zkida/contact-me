@@ -1,9 +1,7 @@
 <template>
-  <div class="container mx-auto min-h-screen">
+  <div class="container flex flex-col mx-auto min-h-screen">
     <Header />
-    <main
-      class="flex items-center justify-center flex-col mt-12 md:mt-28 md:pb-28"
-    >
+    <main class="flex flex-grow items-center justify-center flex-col">
       <h1 class="text-2xl font-bold">Hi, I'm Joseph Ruano 🤘</h1>
       <h2 class="mt-8 md:mt-14 text-center text-4xl md:text-6xl font-bold">
         I <span class="highlighted">build</span> custom WordPress <br />themes
