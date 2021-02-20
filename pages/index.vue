@@ -3,7 +3,7 @@
     <Header />
     <main class="flex flex-grow items-center justify-center flex-col">
       <h1 class="text-2xl font-bold">Hi, I'm Joseph Ruano 🤘</h1>
-      <h2 class="mt-8 md:mt-14 text-center text-4xl md:text-6xl font-bold">
+      <h2 class="mt-4 md:mt-14 text-center text-2xl md:text-6xl font-bold">
         I <span class="highlighted">build</span> custom WordPress <br />themes
         and plugins
       </h2>
