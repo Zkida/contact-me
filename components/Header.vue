@@ -1,7 +1,7 @@
 <template>
   <header class="flex">
-    <div class="flex items-center py-8 px-4">
-      <div class="w-8 h-8 mr-14">
+    <div class="flex items-center w-full sm:justify-center py-8 px-4">
+      <div class="w-8 h-8 mr-4 md:mr-14">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"

@@ -1,13 +1,17 @@
 <template>
   <div class="container mx-auto min-h-screen">
     <Header />
-    <div class="flex items-center justify-center flex-col mt-28 pb-28">
+    <main
+      class="flex items-center justify-center flex-col mt-4 md:mt-28 md:pb-28"
+    >
       <h1 class="text-2xl font-bold">Hi, I'm Joseph Ruano 🤘</h1>
-      <h2 class="mt-14 text-center text-6xl font-bold">
+      <h2 class="mt-8 md:mt-14 text-center text-4xl md:text-6xl font-bold">
         I <span class="highlighted">build</span> custom WordPress <br />themes
         and plugins
       </h2>
-      <div class="w-3/5 text-center mt-12 text-2xl">
+      <div
+        class="w-full px-4 md:w-3/5 text-center mt-8 md:mt-12 text-xl md:text-2xl"
+      >
         <p>A <span class="font-bold">Web Developer</span> in WI.</p>
         <p>
           <span class="font-bold">I'm skilled in:</span> building and
@@ -22,7 +26,7 @@
           >
         </div>
       </div>
-    </div>
+    </main>
   </div>
 </template>
 
