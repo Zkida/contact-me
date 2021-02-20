@@ -2,7 +2,7 @@
   <div class="container mx-auto min-h-screen">
     <Header />
     <main
-      class="flex items-center justify-center flex-col mt-4 md:mt-28 md:pb-28"
+      class="flex items-center justify-center flex-col mt-12 md:mt-28 md:pb-28"
     >
       <h1 class="text-2xl font-bold">Hi, I'm Joseph Ruano 🤘</h1>
       <h2 class="mt-8 md:mt-14 text-center text-4xl md:text-6xl font-bold">
